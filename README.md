@@ -42,6 +42,12 @@ This project explores the Titanic dataset, aiming to derive insights related to 
 - Survival rates by; gender, class, age group, and fare:
 Detailed Results are visualized via Tableau.
 
+![Gender](https://github.com/Cgdsblc/titanic-data-project/assets/66783609/45932cd1-22eb-40c9-bd2e-5a74f5420cfa)
+![Gender-2](https://github.com/Cgdsblc/titanic-data-project/assets/66783609/5625b928-2944-465c-8c82-2194ae160090)
+![Class](https://github.com/Cgdsblc/titanic-data-project/assets/66783609/8a823142-ca35-4157-b8e8-2f9bdd9ca62c)
+![Age Group](https://github.com/Cgdsblc/titanic-data-project/assets/66783609/6de02ae3-b8de-4a6a-b71e-b52812b26402)
+
+
 ## GitHub Repository
 - https://github.com/Cgdsblc/titanic-data-project
 
