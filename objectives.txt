@@ -1,0 +1,44 @@
+# Objectives:
+
+1) Survival Prediction:
+- Build a predictive model to estimate the likelihood of survival for passengers based on available features.
+
+2) Demographic Analysis:
+- Explore the demographic composition of passengers, such as age distribution, gender ratio, and class distribution.
+
+3) Family Relationships:
+- Investigate the presence of family members aboard. How many families were there? Were family members more likely to survive together?
+
+4) Fare and Class Analysis:
+- Analyze the relationship between passenger class, ticket fare, and survival rates.
+
+# Insights to Gain:
+
+1) Survival Factors:
+- Identify key factors that contributed to survival. Are there specific demographics or socio-economic factors that correlate with a higher chance of survival?
+
+2) Impact of Class:
+- Understand how the socio-economic class of passengers influenced survival rates.
+
+3) Age and Gender Analysis:
+- Explore whether age and gender played a significant role in survival outcomes.
+
+4) Family Survival Patterns:
+- Examine whether traveling with family members had an impact on survival.
+
+# Questions to Answer:
+
+1) What was the overall survival rate among passengers?
+- You can calculate and visualize the overall survival rate.
+
+2) How did survival rates differ between genders?
+- The code already includes a visualization of survival counts by gender, but you might want to calculate and display the survival rates for each gender.
+
+3) Were passengers in higher classes more likely to survive?
+- You can explore survival rates based on passenger class and visualize the findings.
+
+4) Did the age of passengers influence their chances of survival?
+- The code includes a basic visualization of the age distribution, but you might want to analyze survival rates across different age groups.
+
+5) What insights can be drawn from the distribution of fares?
+- You can explore the distribution of fares and analyze whether there's a correlation between fare and survival.
