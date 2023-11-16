@@ -1,4 +1,4 @@
-# Titanic Data Analysis & Visualization Project
+# Titanic Data Analysis Project
 
 ## Overview
 This project explores the Titanic dataset, aiming to derive insights related to passenger survival based on various factors. The analysis includes data cleaning, exploration, visualization using Python, SQL queries, and interactive dashboards created with Tableau.
@@ -16,7 +16,7 @@ This project explores the Titanic dataset, aiming to derive insights related to 
 ## Steps
 
 ### 1. Data Collection
-- Used the Titanic dataset from Kaggle, available [here](https://www.kaggle.com/c/titanic/data).
+- Used the Titanic dataset from Kaggle, available at (https://www.kaggle.com/c/titanic/data).
 
 ### 2. Data Cleaning and Exploration (Python)
 - Loaded the dataset using Pandas.
@@ -29,29 +29,34 @@ This project explores the Titanic dataset, aiming to derive insights related to 
 - Analyzed survival rates by gender, class, age group, and fare.
 
 ### 4. Data Visualization (Tableau)
-- https://public.tableau.com/app/profile/.a.da.balc./viz/TitanicBook_16999856173930/TitanicDashboard?publish=yes
+- https://public.tableau.com/app/profile/.a.da.balc./viz/TitanicBookTBD/TitanicDashboard
 - Connected to the dataset in Tableau.
 - Explored data visually using sheets.
 - Created dashboards to showcase survival rates by gender, class, and age group.
 - Added interactivity features in Tableau.
 
+![Titanic Dashboard](https://github.com/Cgdsblc/titanic-data-project/assets/66783609/13bb7fd1-00d7-4ae5-9fa2-219fb1b807ec)
+
 ## Results
-- Overall survival rate: [Result]
-- Survival rates by gender, class, age group, and fare: [Detailed Results]
+- Overall survival rate: 0.384
+- Survival rates by; gender, class, age group, and fare:
+Detailed Results are visualized via Tableau.
 
 ## GitHub Repository
-- [Link to GitHub Repository](https://github.com/yourusername/titanic-data-analysis)
+- https://github.com/Cgdsblc/titanic-data-project
 
 ## How to Use
 1. Clone this repository to your local machine.
-2. Open the Jupyter Notebook (`notebooks/titanic_data_analysis.ipynb`) to view the Python code and visualizations.
+2. Open the Jupyter Notebook to view the Python code and visualizations.
 3. Execute SQL queries in your preferred SQL environment using the provided queries.
-4. Open the Tableau Workbook (`tableau/titanic_dashboard.twbx`) to interact with the Tableau dashboards.
+4. Open the Tableau Workbook to interact with the Tableau dashboards.
 
 ## Future Steps
-- Mention any potential areas for further analysis or improvements.
+- The analysis could be improved with more data requested.
+- Visualizations can also be elaborated.
+- With the analyzed data, artificial intelligence can be trained and survival probabilities can be predicted.
 
 ## Challenges Faced
-- Documented any challenges encountered during the analysis and how they were addressed.
+- Since the project was for learning purposes, the challenges of integrated use of new tools were overcome, as expected.
 
 Feel free to explore, analyze, and provide feedback!
