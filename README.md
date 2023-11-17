@@ -10,7 +10,7 @@ This project explores the Titanic dataset, aiming to derive insights related to 
 - `visualization/`: Visualization file for the graphs and the dashboard.
 
 ## Tools and Languages Used
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python (Pandas, NumPy, Matplotlib, Seaborn, SQLite3)
 - SQL
 - Tableau
 
