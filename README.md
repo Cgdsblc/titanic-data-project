@@ -7,6 +7,7 @@ This project explores the Titanic dataset, aiming to derive insights related to 
 - `data/`: Folder containing the Titanic dataset (CSV file).
 - `notebooks/`: Jupyter Notebook with Python code for data analysis.
 - `tableau/`: Tableau Workbook (.twbx) file for interactive dashboards.
+- `visualization/`: Visualization file for the graphs and the dashboard.
 
 ## Tools and Languages Used
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
