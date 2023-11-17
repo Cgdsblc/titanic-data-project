@@ -4,8 +4,8 @@
 This project explores the Titanic dataset, aiming to derive insights related to passenger survival based on various factors. The analysis includes data cleaning, exploration, visualization using Python, SQL queries, and interactive dashboards created with Tableau.
 
 ## Project Structure
-- `data/`: Folder containing the Titanic dataset (CSV file).
-- `notebooks/`: Jupyter Notebook with Python code for data analysis.
+- `data/`: Folder containing the Titanic dataset (CSV and DB files).
+- `notebooks/`: Jupyter Notebook with Python (and SQL) codes for data analysis.
 - `tableau/`: Tableau Workbook (.twbx) file for interactive dashboards.
 - `visualization/`: Visualization file for the graphs and the dashboard.
 
